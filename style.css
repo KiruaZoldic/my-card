@@ -57,7 +57,7 @@ body {
 }
 
 .card-container {
-	background-color: var(--blue-50);
+	background-color: var(--blue-150);
 	border-radius: 1.5rem;
 	padding: 2rem 1rem;
 	width: clamp(250px, 90%, 600px);
